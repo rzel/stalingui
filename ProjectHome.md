@@ -1,0 +1,1 @@
+Stalin is a very efficient implementation of the Scheme programming language. It is a fine example of Artificial Intelligence, being a compiler so smart that often beats languages like C, both in speed and in memory use. This project aims at creating a portable Graphic user interface for Stalin.
